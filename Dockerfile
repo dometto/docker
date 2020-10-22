@@ -14,5 +14,7 @@ VOLUME /wiki
 
 WORKDIR /wiki
 
+RUN git init
+
 ENTRYPOINT ["gollum"]
 
