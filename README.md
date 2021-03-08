@@ -9,6 +9,6 @@
 
 ## Status
 
-* A image is build on a regular basis using GitHub Actions
-* The image is taged `latest` and pushed to DockerHub
+* An image is built on a regular basis using GitHub Actions
+* The image is tagged `latest` and pushed to DockerHub
 * Open issues and ideas for improvements are tracked as GitHub issues in this repository - feel free to contribute
